@@ -1,0 +1,17 @@
+.classpath
+.project
+.settings/
+*.graphml
+.metadata/*
+jgrapht-1.0.0/*
+.plugins/
+*.class
+venv/
+src/.metadata/*
+src/demo/demo-2/.metadata/
+src/demo/demo-2/src/.metadata/
+data/*
+old/*
+visone-2.16.jar
+src/demo/.metadata/*
+src/demo/demo-2/bin/*

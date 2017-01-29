@@ -1,0 +1,6 @@
+{
+  "name": "Daisy's Graph",
+  "tagline": "Yolo",
+  "body": "<object data=\"demo.svg\" type=\"image/svg+xml\">\r\n  <img src=\"demo.svg\" />\r\n</object>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
